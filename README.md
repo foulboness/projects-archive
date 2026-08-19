@@ -84,8 +84,8 @@ No backend, database, authentication, CMS, or external API is required.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/foulboness/projects.git
-cd projectsonly
+git clone https://github.com/foulboness/projects-archive.git
+cd projectsarchive
 ```
 
 ### Install dependencies
