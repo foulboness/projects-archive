@@ -1,0 +1,6 @@
+{
+  "name": "PROJECTS//ARCHIVE",
+  "description": "A curated editorial digital project archive and portfolio dedicated exclusively to creative development and UI/UX design work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
